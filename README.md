@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hola, I’m Lucas Di Mattia.
+## Designer who codes from Córdoba, Argentina.
 
-<!--
-**untallucas/untallucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a detail obsessed user interface designer and front-end web developer.
+Design systems advocate, in love with CSS challenges and creative coding.
+Occasional speaker and user experience advisor.
+Happy father & husband. If there's no coffee, let there be nothing.
 
-Here are some ideas to get you started:
+### 📂 Currently at
+[Crosschq](https://www.crosschq.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 My work
+[Dribbble](http://www.dribbble.com/untallucas)
+[Behance](http://www.behance.com/untallucas)
+[Github](https://github.com/untallucas)
+          
+### ✏️ Projects
+[Jersey Design Playground](https://jerseydesign.untallucas.com) 
+[Map of Unlikely Architectures](https://arquitecturasimprobables.untallucas.com) 
+[100 Patterns](http://100-css-patterns.afterseven.com.ar/) 
+[Córdoba Tourism Guide](https://cordoba.maapu.com/) 
+
+### 💬 Contact Me
+[Email](mailto:hola@untallucas.com)
+[Twitter](http://www.twitter.com/untallucas)
+[LinkedIn](http://www.linkedin.com/in/lucasdimattia)
+Ask me about ...
