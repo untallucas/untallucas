@@ -1,9 +1,9 @@
 # Hola, I’m Lucas Di Mattia.
-#### Designer who codes from Córdoba, Argentina.
-#### I'm a detail obsessed user interface designer and front-end web developer.
-#### Design systems advocate, in love with CSS challenges and creative coding.
-#### Occasional speaker and user experience advisor.
-#### Happy father & husband. If there's no coffee, let there be nothing.
+__Designer who codes from Córdoba, Argentina.__  
+__I'm a detail obsessed user interface designer and front-end web developer.__  
+__Design systems advocate, in love with CSS challenges and creative coding.__  
+__Occasional speaker and user experience advisor.__  
+__Happy father & husband. If there's no coffee, let there be nothing.__  
 
 &nbsp;
 
