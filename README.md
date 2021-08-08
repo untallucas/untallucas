@@ -1,6 +1,6 @@
 # Hola, I’m Lucas Di Mattia.
 
-### I'm a detail obsessed user interface designer and front-end web developer from Córdoba, Argentina. <br/> Design systems advocate, in love with CSS challenges and creative coding. <br/>Occasional speaker and user experience advisor. <br/>Happy father & husband. If there's no coffee, let there be nothing.
+### I'm a user interface designer and frontend web developer from Córdoba, Argentina. <br/> Detail obsessed, design systems advocate, in love with CSS challenges and creative coding. <br/>Occasional speaker and user experience advisor. <br/>Happy father & husband. If there's no coffee, let there be nothing.
 
 &nbsp;
 
@@ -41,3 +41,10 @@
 * Frontend Development (HTML, CSS, SASS)
 
 &nbsp;
+
+***
+
+&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=untallucas)](Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untallucas)](Stats)
