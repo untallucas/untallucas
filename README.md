@@ -35,7 +35,7 @@
 * Design Systems
 * User Experience Design
 * User Interface Design
-* Sketch tips
+* Designing With Sketch Tips
 * Frontend Development (HTML, CSS, SASS)
 
 &nbsp;
