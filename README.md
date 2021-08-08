@@ -3,7 +3,9 @@
 ### Designer who codes from Córdoba, Argentina. <br/> I'm a detail obsessed user interface designer and front-end web developer. <br/> Design systems advocate, in love with CSS challenges and creative coding. <br/>Occasional speaker and user experience advisor. <br/>Happy father & husband. If there's no coffee, let there be nothing.
 
 &nbsp;
+
 ***
+
 &nbsp;
 
 #### 📂&nbsp;&nbsp;Currently working at
@@ -39,3 +41,5 @@
 * User Interface Design
 * Sketch tips
 * Frontend Development (HTML, CSS, SASS)
+
+&nbsp;
