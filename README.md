@@ -1,5 +1,5 @@
 # 👋 Hola, I’m Lucas Di Mattia.
-## Designer who codes from Córdoba, Argentina.
+### Designer who codes from Córdoba, Argentina.
 
 I'm a detail obsessed user interface designer and front-end web developer.
 
@@ -9,7 +9,8 @@ Occasional speaker and user experience advisor.
 
 Happy father & husband. If there's no coffee, let there be nothing.
 
----
+
+
 
 ### 📂 Currently at
 [Crosschq](https://www.crosschq.com)
@@ -17,7 +18,7 @@ Happy father & husband. If there's no coffee, let there be nothing.
 ---
 
 ### 📂 My work
-* ##### [Dribbble](http://www.dribbble.com/untallucas)
+* [Dribbble](http://www.dribbble.com/untallucas)
 * [Behance](http://www.behance.com/untallucas)
 * [Github](https://github.com/untallucas)
 
