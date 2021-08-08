@@ -1,19 +1,16 @@
-# 👋 Hola, I’m Lucas Di Mattia.
+# Hola, I’m Lucas Di Mattia.
 ### Designer who codes from Córdoba, Argentina.
+### I'm a detail obsessed user interface designer and front-end web developer.
+### Design systems advocate, in love with CSS challenges and creative coding.
+### Occasional speaker and user experience advisor.
+### Happy father & husband. If there's no coffee, let there be nothing.
 
-I'm a detail obsessed user interface designer and front-end web developer.
+&nbsp;
 
-Design systems advocate, in love with CSS challenges and creative coding.
-
-Occasional speaker and user experience advisor.
-
-Happy father & husband. If there's no coffee, let there be nothing.
-
-
-
+&nbsp;
 
 ### 📂 Currently at
-[Crosschq](https://www.crosschq.com)
+* [Crosschq](https://www.crosschq.com)
 
 ---
 
@@ -27,7 +24,7 @@ Happy father & husband. If there's no coffee, let there be nothing.
 ### ✏️ Projects
 * [Jersey Design Playground](https://jerseydesign.untallucas.com) 
 * [Map of Unlikely Architectures](https://arquitecturasimprobables.untallucas.com) 
-* [100 Patterns](http://100-css-patterns.afterseven.com.ar/) 
+* [100 CSS Patterns](http://100-css-patterns.afterseven.com.ar/) 
 * [Córdoba Tourism Guide](https://cordoba.maapu.com/) 
 
 ---
@@ -37,5 +34,11 @@ Happy father & husband. If there's no coffee, let there be nothing.
 * [Twitter](http://www.twitter.com/untallucas)
 * [LinkedIn](http://www.linkedin.com/in/lucasdimattia)
 
+---
 
-Ask me about ...
+### ❓ Ask me about
+* Design Systems
+* User Experience Design
+* User Interface Design
+* Sketch tips
+* Frontend Development (HTML, CSS, SASS)
