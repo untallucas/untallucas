@@ -14,14 +14,10 @@
 
 &nbsp;
 
-&nbsp;
-
 ### 📂&nbsp;&nbsp;My work
 * [Dribbble](http://www.dribbble.com/untallucas)
 * [Behance](http://www.behance.com/untallucas)
 * [Github](https://github.com/untallucas)
-
-&nbsp;
 
 &nbsp;
 
@@ -33,14 +29,10 @@
 
 &nbsp;
 
-&nbsp;
-
 ### 💬&nbsp;&nbsp;Contact Me
 * [Email](mailto:hola@untallucas.com)
 * [Twitter](http://www.twitter.com/untallucas)
 * [LinkedIn](http://www.linkedin.com/in/lucasdimattia)
-
-&nbsp;
 
 &nbsp;
 
