@@ -4,11 +4,9 @@
 
 &nbsp;
 
-***
-
 &nbsp;
 
-#### 📂&nbsp;&nbsp;Currently working at
+#### ✳️&nbsp;&nbsp;Currently working at
 * [Crosschq](https://www.crosschq.com)
 
 &nbsp;
@@ -28,14 +26,14 @@
 
 &nbsp;
 
-#### 💬&nbsp;&nbsp;Contact Me
+#### ✉️&nbsp;&nbsp;Contact Me
 * [Email](mailto:hola@untallucas.com)
 * [Twitter](http://www.twitter.com/untallucas)
 * [LinkedIn](http://www.linkedin.com/in/lucasdimattia)
 
 &nbsp;
 
-#### ❓&nbsp;&nbsp;Let's talk about
+#### 💬&nbsp;&nbsp;Let's talk about
 * Design Systems
 * User Experience Design
 * User Interface Design
