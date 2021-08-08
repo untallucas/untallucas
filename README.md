@@ -14,8 +14,6 @@
 
 &nbsp;
 
----
-
 &nbsp;
 
 ### 📂 My work
@@ -24,8 +22,6 @@
 * [Github](https://github.com/untallucas)
 
 &nbsp;
-
----
 
 &nbsp;
 
@@ -37,8 +33,6 @@
 
 &nbsp;
 
----
-
 &nbsp;
 
 ### 💬 Contact Me
@@ -47,8 +41,6 @@
 * [LinkedIn](http://www.linkedin.com/in/lucasdimattia)
 
 &nbsp;
-
----
 
 &nbsp;
 
