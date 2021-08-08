@@ -4,8 +4,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### ✳️&nbsp;&nbsp;Currently working at
 * [Crosschq](https://www.crosschq.com)
 
