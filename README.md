@@ -16,7 +16,7 @@ I'm a user interface designer and frontend web developer from Córdoba, Argentin
 
 &nbsp;
 
-#### ✏️&nbsp;&nbsp;Projects
+#### 💡&nbsp;&nbsp;Projects
 * [Jersey Design Playground](https://jerseydesign.untallucas.com) 
 * [Map of Unlikely Architectures](https://arquitecturasimprobables.untallucas.com) 
 * [100 CSS Patterns](http://100-css-patterns.afterseven.com.ar/) 
