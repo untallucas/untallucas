@@ -4,7 +4,7 @@ I'm a user interface designer and frontend web developer from Córdoba, Argentin
 
 &nbsp;
 
-#### ✳️&nbsp;&nbsp;Currently working at
+#### 👨‍💻&nbsp;&nbsp;Currently working at
 * [Crosschq](https://www.crosschq.com)
 
 &nbsp;
