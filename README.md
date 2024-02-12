@@ -29,7 +29,6 @@ I'm a user interface designer and frontend web developer from Córdoba, Argentin
 * [Email](mailto:hola@untallucas.com)
 * [Twitter](http://www.twitter.com/untallucas)
 * [LinkedIn](http://www.linkedin.com/in/lucasdimattia)
-
 &nbsp;
 
 #### 💬&nbsp;&nbsp;Let's talk about
