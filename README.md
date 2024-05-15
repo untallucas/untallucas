@@ -4,11 +4,6 @@ I'm a user interface designer and frontend web developer from Córdoba, Argentin
 
 &nbsp;
 
-#### 👨‍💻&nbsp;&nbsp;Currently working at
-* [Crosschq](https://www.crosschq.com)
-
-&nbsp;
-
 #### 📂&nbsp;&nbsp;My work
 * [Dribbble](http://www.dribbble.com/untallucas)
 * [Behance](http://www.behance.com/untallucas)
@@ -29,13 +24,14 @@ I'm a user interface designer and frontend web developer from Córdoba, Argentin
 * [Email](mailto:hola@untallucas.com)
 * [Twitter](http://www.twitter.com/untallucas)
 * [LinkedIn](http://www.linkedin.com/in/lucasdimattia)
+
 &nbsp;
 
 #### 💬&nbsp;&nbsp;Let's talk about
 * Design Systems
 * User Experience Design
 * User Interface Design
-* Designing With Sketch Tips
+* Designing With Figma Tips
 * Frontend Development (HTML, CSS, SASS)
 
 &nbsp;
